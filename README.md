@@ -1,4 +1,5 @@
 # 🏙️ SkyLine GrowthTracker
+<img width="720" height="720" alt="Gemini_Generated_Image_oyf6m5oyf6m5oyf6" src="https://github.com/user-attachments/assets/0b3ba9d9-c38c-4263-9167-1792a29035ca" />
 
 **SkyLine GrowthTracker** is a geospatial analytics project that leverages **Google Earth Engine (GEE)** and **Python** to monitor, analyze, and visualize **urban growth patterns**.  
 It detects and tracks recent building developments, providing insights into city expansion and construction dynamics over time.
