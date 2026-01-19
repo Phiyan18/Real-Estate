@@ -1,4 +1,4 @@
-# 🏙️ SkyLine GrowthTracker
+# SkyLine GrowthTracker
 <img width="720" height="720" alt="Gemini_Generated_Image_oyf6m5oyf6m5oyf6" src="https://github.com/user-attachments/assets/0b3ba9d9-c38c-4263-9167-1792a29035ca" />
 
 **SkyLine GrowthTracker** is a geospatial analytics project that leverages **Google Earth Engine (GEE)** and **Python** to monitor, analyze, and visualize **urban growth patterns**.  
@@ -6,7 +6,7 @@ It detects and tracks recent building developments, providing insights into city
 
 ---
 
-## 🌟 Overview
+## Overview
 
 Urban growth is a key indicator of socioeconomic development — and with increasing satellite data availability, it's now possible to monitor it more effectively.  
 SkyLine GrowthTracker simplifies this process by using Google Earth Engine’s satellite imagery and geospatial datasets to:
@@ -18,18 +18,18 @@ SkyLine GrowthTracker simplifies this process by using Google Earth Engine’s s
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌍 **Satellite-based urban analysis** with Google Earth Engine  
-- 🏗️ **Building footprint extraction** from high-resolution imagery  
-- 🗺️ **Interactive geospatial mapping** using Folium and Geemap  
-- 📊 **Data analytics and visualization** with Pandas, Matplotlib, and Seaborn  
-- ⚡ **Efficient workflows** with GeoPandas and TQDM for progress tracking  
-- 💾 **Export-ready GeoData** (Shapefile, GeoJSON, CSV)
+-  **Satellite-based urban analysis** with Google Earth Engine  
+-  **Building footprint extraction** from high-resolution imagery  
+-  **Interactive geospatial mapping** using Folium and Geemap  
+-  **Data analytics and visualization** with Pandas, Matplotlib, and Seaborn  
+-  **Efficient workflows** with GeoPandas and TQDM for progress tracking  
+-  **Export-ready GeoData** (Shapefile, GeoJSON, CSV)
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Category | Tools |
 |-----------|--------|
@@ -68,7 +68,7 @@ earthengine authenticate
 
 ---
 
-## 🧠 Usage
+## Usage
 
 ### Run the Jupyter Notebook
 ```bash
@@ -98,12 +98,12 @@ gdf.head()
 
 ---
 
-## 📈 Example Outputs
+## Example Outputs
 
-### 🗺️ Geospatial Visualization
+### Geospatial Visualization
 Interactive **Folium** maps show the distribution and density of new buildings in the region.
 
-### 📊 Analytical Charts
+### Analytical Charts
 Graphs generated with **Matplotlib** and **Seaborn** illustrate:
 - New building counts by year or region  
 - Area expansion rates  
@@ -126,30 +126,22 @@ SkyLine_GrowthTracker/
 
 ---
 
-## 🧑‍💻 Author
-
-**Phiyan**  
-Engineering Student & Geospatial Enthusiast  
-📧 *Contact:* (optional – add email or LinkedIn if you wish)
-
----
-
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
-- 🛰️ Time-lapse visualization of urban expansion  
-- 🤖 Integration with AI-based building classification models  
-- 🌆 Automated multi-region comparison and dashboard view  
-- 📦 Web-based deployment using Streamlit or Dash  
+-  Time-lapse visualization of urban expansion  
+-  Integration with AI-based building classification models  
+-  Automated multi-region comparison and dashboard view  
+-  Web-based deployment using Streamlit or Dash  
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!  
 1. Fork the repository  
@@ -159,7 +151,7 @@ Contributions are welcome!
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 - [Google Earth Engine](https://earthengine.google.com/) for geospatial data and APIs  
 - [Geemap](https://geemap.org/) for bridging Earth Engine and Python visualization  
